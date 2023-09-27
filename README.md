@@ -30,7 +30,7 @@ Install the necessary libraries for this project using pip:
 The model has been trained on the MNIST dataset.
 
 ## Author
-[Ishan Katoch]
+Ishan Katoch
 
 ## Working
 https://github.com/ishan-1010/PROJECT_1_Hand_Digit_Recognition/assets/98383932/228bd842-14ca-46a6-a72d-6ed6aac1ba67
